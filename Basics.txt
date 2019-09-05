@@ -1,0 +1,7 @@
+For creating repository:
+
+Go to working directory
+
+git init (intialize git repository)
+git status (status of commited files)
+ 
